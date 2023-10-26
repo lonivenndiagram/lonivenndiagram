@@ -6,7 +6,7 @@ I have over 8 years of experience in the cloud and open-source landscape, mostly
 ### Flagship Project: Predicting Pandemics 🌍
 I'm working on an open-source project aimed at predicting pandemic outcomes. Using basic infectious disease and hospital capacity stats, it projects pandemic scenarios over a 120-day period. This general model can be applied to any infectious disease.
 
-👉 Pandemic Prediction Repository (Link to be added)
+👉 [Pandemic Prediction Repository](https://github.com/lonivenndiagram/PandemicPredictor)
 
 ### What You Can Expect Here 📚
 - DevOps Repositories: Codes and configurations related to various DevOps tools and practices.
